@@ -1,0 +1,38 @@
+body{
+    background-color:rgb(70, 10, 10);
+    color: white;
+    text-align: center;
+}
+h3 {
+    color: white;
+}
+table {
+    text-align: center;
+    border-collapse: collapse;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+button {
+    height: 10rem;
+    width: 10rem;
+    background-color: white;
+    margin: 8px;
+}
+
+#reset, #resetGamesWon {
+    height: 3rem;
+    width: 15rem;
+}
+
+.ex, .oh {
+    font-size:7rem;
+    color: green;
+}
+
+#liveAlertPlaceholder {
+    width:32rem;
+    margin-left:auto;
+    margin-right:auto;
+    font-weight: bolder;
+}
